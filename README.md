@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-
+![Screenshot 2024-06-16 123143](https://github.com/HarishJagdale0/foodSpot-Food-Website/assets/163445863/79591fa4-b30f-45d4-a832-df2ea471526c)
 
 ### Prerequisites
 
