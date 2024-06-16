@@ -254,9 +254,9 @@
     background-position: bottom;
   }
   
-  .section-divider.white::after { background-image: url("shape-white.png"); }
+  .section-divider.white::after { background-image: url("./images/shape-white.png"); }
   
-  .section-divider.gray::after { background-image: url("shape-grey.png"); }
+  .section-divider.gray::after { background-image: url("./images/shape-grey.png"); }
   
   .w-100 { width: 100%; }
   
@@ -828,7 +828,7 @@
   .cta::before {
     bottom: auto;
     top: 0;
-    background-image: url("shape-grey.png");
+    background-image: url("./images/shape-grey.png");
     transform: scaleY(-1);
   }
   
@@ -1416,7 +1416,7 @@
       bottom: -2px;
       width: 100%;
       height: 100%;
-      background-image: url("hero-bg-shape.png");
+      background-image: url("./images/hero-bg-shape.png");
       background-repeat: no-repeat;
       background-size: contain;
       background-position: right bottom;
